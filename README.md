@@ -3,6 +3,7 @@ I am @jolynnkoh 🐣 I like to play the violin, hit the gym, create fun activiti
 - 👀 I’m interested in indie games!
 - 🌱 I’m currently learning how to create pixel art and animation
 - 💞️ I’m looking to collaborate on small projects that would help me grow as a game designer
+- 💻 Coding Languages: Python, Lua and a little bit of HTML
 - 📫 How to reach me: LinkedIn@ linkedin.com/in/jolynn-koh-93a740247
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I play the violin!
